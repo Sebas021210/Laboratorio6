@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Laboratorio6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="good_morning">Good morning,</string>
+    <string name="sebasti_n_solorzano">Sebastián Solorzano</string>
+    <string name="search">Search</string>
+    <string name="your_top_genres">Your top genres</string>
+    <string name="reggaeton">Reggaeton</string>
+    <string name="electronica">Electrónica</string>
+    <string name="pop">Pop</string>
+    <string name="techno">Techno</string>
+    <string name="todo7">TODO</string>
+    <string name="your_library">Your Library</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="todo11">TODO</string>
+    <string name="most_recent">Most recent</string>
+    <string name="todo12">TODO</string>
+    <string name="liked_songs">Liked Songs</string>
+    <string name="songs">Songs</string>
+    <string name="_0_songs">0 Songs</string>
+</resources>
